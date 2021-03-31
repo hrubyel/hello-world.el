@@ -1,2 +1,2 @@
 # hello-world.el
-1st repository
+This is my first repository, I am just learning how to use GitHub.
